@@ -1,2 +1,2 @@
 # hello-world
-justin timberlake repository
+just another repository
